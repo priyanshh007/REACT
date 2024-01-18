@@ -1,0 +1,23 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is practise session on react for namaste react",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priyanshh007/REACT.git"
+  },
+  "keywords": [],
+  "author": "Priyansh Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/priyanshh007/REACT/issues"
+  },
+  "homepage": "https://github.com/priyanshh007/REACT#readme",
+  "dependencies": {
+    "parcel": "^2.11.0"
+  }
+}
